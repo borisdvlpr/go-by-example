@@ -12,3 +12,4 @@ This repo contains the code snippets from the hands on introduction to Go, [Go B
 - [Arrays](./8-arrays.go)
 - [Slices](./9-slices.go)
 - [Maps](./10-maps.go)
+- [Ranges](./11-range.go)
